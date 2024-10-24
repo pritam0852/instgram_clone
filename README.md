@@ -1,18 +1,41 @@
+# Instagram Clone
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pritam0852/) 
+> Responsive Instagram UI Clone
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pritam0852&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pritam0852&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam0852&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+This project is a clone of the [Instagram UI](https://instagram.com). I made it to study and improve my skills with HTML and CSS, and learn new concepts, like layouts, responsiveness, positioning and some JS concepts. Any feedback, opinions or suggestions is very welcome!
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pritam0852&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+The latest update includes some nice new features, such as the gradient border and scroll buttons in stories, and the possibility to add more than one media to the post content, plus, of course, a major overhaul of the UI design!
 
----
-[![](https://visitcount.itsvg.in/api?id=pritam0852&icon=0&color=0)](https://visitcount.itsvg.in)
+- **[Live Preview](https://leocosta1.github.io/instagram-clone/)**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🤓 Improved Skills
+
+- Layout (Flexbox);
+- Positioning;
+- Semantic HTML;
+- Responsiveness (Media Queries, Relative Lengths);
+- Light/Dark Theme;
+- SVG Usage;
+- BEM Methodology;
+- Scroll Snapping;
+- Events;
+- LocalStorage;
+- Intersection Observer;
+
+## ✅ ToDo
+
+- [ ] Refactor CSS (Maybe add SASS).
+
+## ⚙ Dev Setup (VS Code)
+
+1. Clone the project.
+2. Open the folder with ``Visual Studio Code``.
+3. Install ``Live Preview`` extension.
+4. Right click **index.html** > ``Live Preview: Show Preview``.
+5. Open the ``localhost:3000`` address in your favorite browser.
+
+## ℹ Infos
+
+Made by Leonardo Costa 🙂
+
+Distributed under the MIT License. See ``LICENSE`` for more information.
