@@ -1,41 +1,36 @@
 # Instagram Clone
 
-> Responsive Instagram UI Clone
+A social media platform that allows users to share photos, follow friends, and engage with content through likes and comments. This project is a clone of Instagram, built using modern web technologies.
 
-This project is a clone of the [Instagram UI](https://instagram.com). I made it to study and improve my skills with HTML and CSS, and learn new concepts, like layouts, responsiveness, positioning and some JS concepts. Any feedback, opinions or suggestions is very welcome!
+## Features
 
-The latest update includes some nice new features, such as the gradient border and scroll buttons in stories, and the possibility to add more than one media to the post content, plus, of course, a major overhaul of the UI design!
+- User authentication (sign up, login, logout)
+- User profiles with bio and profile picture
+- Photo uploads with caption
+- Follow and unfollow functionality
+- Like and comment on posts
+- Responsive design for mobile and desktop
+- Image gallery with grid layout
+- Search functionality for users and posts
 
-- **[Live Preview](https://leocosta1.github.io/instagram-clone/)**
+## Tech Stack
 
-## 🤓 Improved Skills
+- **Frontend:** React, Redux, CSS, HTML
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Cloud Storage:** AWS S3 (for image uploads)
+- **Authentication:** JSON Web Tokens (JWT)
 
-- Layout (Flexbox);
-- Positioning;
-- Semantic HTML;
-- Responsiveness (Media Queries, Relative Lengths);
-- Light/Dark Theme;
-- SVG Usage;
-- BEM Methodology;
-- Scroll Snapping;
-- Events;
-- LocalStorage;
-- Intersection Observer;
+## Installation
 
-## ✅ ToDo
+### Prerequisites
 
-- [ ] Refactor CSS (Maybe add SASS).
+- Node.js and npm installed
+- MongoDB installed or access to a MongoDB Atlas account
+- AWS account for S3 (optional, if using for image storage)
 
-## ⚙ Dev Setup (VS Code)
+### Clone the Repository
 
-1. Clone the project.
-2. Open the folder with ``Visual Studio Code``.
-3. Install ``Live Preview`` extension.
-4. Right click **index.html** > ``Live Preview: Show Preview``.
-5. Open the ``localhost:3000`` address in your favorite browser.
-
-## ℹ Infos
-
-Made by Leonardo Costa 🙂
-
-Distributed under the MIT License. See ``LICENSE`` for more information.
+```bash
+git clone https://github.com/yourusername/instagram-clone.git
+cd instagram-clone
